@@ -1,0 +1,9 @@
+{
+  "name": "Git Rebase Highlight",
+  "version": "0.0.1",
+  "authors": [
+    "d1y <chenhonzhou@gmail.com>"
+  ],
+  "description": "Git Rebase Highlight",
+  "repository": "https://github.com/d1y/git_rebase.zed"
+}
